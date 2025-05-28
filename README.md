@@ -41,12 +41,12 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/Linsaym/SkillForge
 ```
 
 2. Установите зависимости (для фронтенда):
 ```bash
-cd your-repo-name
+cd https://github.com/Linsaym/SkillForge
 npm install
 ```
 
